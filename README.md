@@ -5,6 +5,8 @@ A Slack bot built with Node.js and Slack Bolt that provides simple mini-games an
 
 ## Commands
 
+<img width="582" height="267" alt="image" src="https://github.com/user-attachments/assets/ed69fb98-83e1-468f-b3d1-a68067191591" />
+
 | Command                    | Description                  |
 | -------------------------- | ---------------------------- |
 | `/mini-games-ping`         | Check the bot's latency      |
